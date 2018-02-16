@@ -26,7 +26,18 @@ after_success:
   - pwd
   - cd ..
   - pwd
-  
+
+deploy:
+  - provider: s3
+   local_dir: code-deploy
+   bucket: yichuan-code-deploy.csye6225.com
+   region: us-east-1
+   skip_cleanup: true
+   access_key_id: $access_key_id
+   secret_access_key: $secret_access_key
+   on:
+     branch: lab1
+
 notifications:
   username:
     recipients:
