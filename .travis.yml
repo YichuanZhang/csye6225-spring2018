@@ -12,7 +12,7 @@ branches:
 
 script:
   - ./webapp/gradlew build
-  - cd /webapp
+  - cd webapp
   - gradlew war
 
 
