@@ -29,7 +29,7 @@ after_success:
 
 deploy:
   - provider: s3
-   local_dir: code-deploy
+   local_dir: codedeploy
    bucket: yichuan-code-deploy.csye6225.com
    region: us-east-1
    skip_cleanup: true
