@@ -5,6 +5,11 @@ jdk:
 sudo: false
 install: true
 
+branches:
+  only:
+   - lab1
+
+
 script:
   - ./webapp/gradlew build
 
