@@ -1,6 +1,7 @@
 # CSYE6225-Spring2018 Cloud Computing Team
 
 [![Build Status](https://travis-ci.com/YichuanZhang/csye6225-spring2018.svg?token=tKA3sSWpCQ9Gbyx5A8dJ&branch=master)](https://travis-ci.com/YichuanZhang/csye6225-spring2018)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/36cbec36e60049c39a1c9319714b8dee)](https://www.codacy.com/app/YichuanZhang/csye6225-spring2018?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YichuanZhang/csye6225-spring2018&amp;utm_campaign=Badge_Grade)
 <p>Team Member<p>
 
 Yichuan Zhang  -  zhang.yichu@husky.neu.edu
