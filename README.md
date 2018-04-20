@@ -10,19 +10,16 @@ Xiao Li  -  li.xiao5@husky.neu.edu
 
 Yang Yuan  -  yuan.yang@husky.neu.edu
 
+# Web Cluster Structure
+<img src="https://spring2018.csye6225.com/assignments/A09.png"></a>
 
 # Prerequisites for building and deploying
 <ul>
+  <li>AWS Cli/Cloudformation</li>
   <li>Java 8</li>
   <li>Tomcat as server</li>
   <li>MySQL</li>
-</ul>
-<p>Load Test</p>
-<ul>
   <li>Jmeter</li>
-</ul>
-<p>Integration</p>
-<ul>
   <li>Travis CI</li>
 </ul>
 
