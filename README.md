@@ -13,6 +13,8 @@ Yang Yuan  -  yuan.yang@husky.neu.edu
 # Web Cluster Structure
 <img src="https://spring2018.csye6225.com/assignments/A09.png"></a>
 
+Lambda function can be found here: <a href="https://github.com/YichuanZhang/csye6225-spring2018-lambda">Email Service Lambda</a>
+
 # Prerequisites for building and deploying
 <ul>
   <li>AWS Cli/Cloudformation</li>
